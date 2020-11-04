@@ -120,11 +120,11 @@ print  """
 
 \033[1;91mFacebook\033[1;91m: \033[1;93mhttps://www.facebook.com/ID Code
 \033[1;91m«--------------------\033[1;93m✧\033[1;91m--------------------»"""
-jalan("\33[31;1m Please Don't Clone Cirebon Facebook ID Code   ")
-jalan('\33[31;1m Username IDCode Password 2020   ')
+jalan("\33[1;33m Please Don't Clone Cirebon Facebook ID Code   ")
+jalan('\33[1;33m Username IDCode Password 2020   ')
 jalan('\33[1;33m██ Selamat% ')
-jalan('\33[33;1m ███ Datang% ")
-jalan('\33[33;1m  ████ DiTools% ")
+jalan('\33[1;33m ███ Datang% ")
+jalan('\33[1;33m  ████ DiTools% ")
 jalan('\33[1;33m   █████ Jekky% ")
 jalan("\33[1;33m    ██████ 100%  ")
 print "\033[1;91m«-------------\033[1;93mLogin Tool\033[1;91m-------------»"
