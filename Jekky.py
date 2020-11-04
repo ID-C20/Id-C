@@ -107,46 +107,6 @@ listgrup = []
 vulnot = "\033[31mNot Vuln"
 vuln = "\033[32mVuln"
 
-os.system("clear")
-print  """
-\33[1;33m─╔╗╔═╗╔╦╗╔╦╗╔═╦╗\33[0m
-\33[0;36m─║║║╦╝║╔╝║╔╝╚╗║║\33[0m
-\33[1;33m╔╣║║╩╗║╚╗║╚╗╔╩╗║\33[0m
-\33[0;36m╚═╝╚═╝╚╩╝╚╩╝╚══╝\33[0m
-\33[31;1m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\33[31;1m๑۩۩๑\33[31;1m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
-\033[1;91mAuthor©\033[1;91m: \033[1;93mId Jekky
-
-\033[1;91mYoutube\033[1;91m: \033[1;93mID Code.
-
-\033[1;91mFacebook\033[1;91m: \033[1;93mhttps://www.facebook.com/ID Code
-\033[1;91m«--------------------\033[1;93m✧\033[1;91m--------------------»"""
-jalan("\33[31;1m Please Don't Clone Cirebon Facebook ID Code   ")
-jalan('\33[31;1m Username IDCode Password 2020   ')
-jalan('\33[1;33m██ Selamat% ')
-jalan('\33[33;1m███ Datang% ")
-jalan('\33[33;1m████ DiTools% ")
-jalan('\33[1;33m█████ Jekky% ")
-print "\033[1;91m«-------------\033[1;93mLogin Tool\033[1;91m-------------»"
-
-CorrectUsername = "IDC"
-CorrectPassword = "Jekky"
-
-loop = 'true'
-while (loop == 'true'):
-    username = raw_input("\033[1;96m🔐 \x1b[1;91mTool Username \x1b[1;91m»» \x1b[1;93m")
-    if (username == CorrectUsername):
-    	password = raw_input("\033[1;96m🔐 \x1b[1;91mTool Password \x1b[1;91m»» \x1b[1;93m")
-        if (password == CorrectPassword):
-            print "Logged in successfully as " + username #Id:Code
-	    time.sleep(2)
-            loop = 'false'
-        else:
-            print "\033[1;91mWrong Password"
-            os.system('xdg-open https://youtu.be/53tvjO3Rwns')
-    else:
-        print "\033[1;91mWrong Username"
-        os.system('xdg-open https://youtu.be/53tvjO3Rwns')
-
 ##### LICENSE #####
 #=================#
 def lisensi():
