@@ -120,7 +120,7 @@ print  """
 
 \033[1;91mFacebook\033[1;91m: \033[1;93mhttps://www.facebook.com/ID Code
 \033[1;91m«--------------------\033[1;93m✧\033[1;91m--------------------»"""
-jalan("\33[1;33m Please Don't Clone Cirebon Facebook ID Code   ")
+jalan("\33[1;33m Assalamualaikum Warahmatullahi wabarakhatu   ")
 jalan('\33[1;33m Username IDCode Password Jekky   ')
 jalan('\33[1;33m██ Selamat% ')
 jalan("\33[1;33m ███ Datang%  ")
