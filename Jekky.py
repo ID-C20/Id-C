@@ -116,12 +116,12 @@ print  """
 \33[31;1m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\33[31;1m๑۩۩๑\33[31;1m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
 \033[1;91mAuthor©\033[1;91m: \033[1;93mId Jekky
 
-\033[1;91mYoutube\033[1;91m: \033[1;93mID Code.
+\033[1;91mYoutube\033[1;91m: \033[1;93mID Jekky.
 
 \033[1;91mFacebook\033[1;91m: \033[1;93mhttps://www.facebook.com/ID Code
 \033[1;91m«--------------------\033[1;93m✧\033[1;91m--------------------»"""
 jalan("\33[1;33m Please Don't Clone Cirebon Facebook ID Code   ")
-jalan('\33[1;33m Username IDCode Password 2020   ')
+jalan('\33[1;33m Username IDCode Password Jekky   ')
 jalan('\33[1;33m██ Selamat% ')
 jalan("\33[1;33m ███ Datang%  ")
 jalan("\33[1;33m  ████ DiTools% ")
