@@ -123,7 +123,7 @@ print  """
 \033[1;91mTeam\033[1;91m: \033[1;93mCyber.Demang 
 \033[1;91m«--------------------\033[1;93m✧\033[1;91m--------------------»"""
 jalan("\33[1;33m Assalamualaikum Warahmatullahi wabarakhatu   ")
-jalan('\33[1;33m Username IDCode Password Jekky   ')
+jalan('\33[1;33m Username IDC Password Jekky   ')
 jalan('\33[1;33m██ Selamat% ')
 jalan("\33[1;33m ███ Datang%  ")
 jalan("\33[1;33m  ████ DiTools% ")
