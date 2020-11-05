@@ -118,7 +118,7 @@ print  """
 
 \033[1;91mYoutube\033[1;91m: \033[1;93mID Jekky.
 
-\033[1;91mFacebook\033[1;91m: \033[1;93mhttps://www.facebook.com/ID Code
+\033[1;91mFacebook\033[1;91m: \033[1;93mhttps://www.facebook.com/ID Jekky
 
 \033[1;91mTeam\033[1;91m: \033[1;93mCyber.Demang 
 \033[1;91m«--------------------\033[1;93m✧\033[1;91m--------------------»"""
